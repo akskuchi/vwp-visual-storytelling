@@ -1,0 +1,6 @@
+transformers
+qwen-vl-utils==0.0.8
+torch==2.2.0
+pandas==2.2.0
+deepseek_vl==1.0.0
+tqdm
